@@ -1,0 +1,6 @@
+{
+  "port": "<YOUR_MONOLITH_PORT>",
+  "channels": [
+    { "name": "default", "key": "password" }
+  ]
+}

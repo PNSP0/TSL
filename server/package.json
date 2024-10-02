@@ -1,0 +1,26 @@
+{
+  "name": "KDL",
+  "version": "1.0.0",
+  "description": "KDL telemetry server",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "node index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/commanderk9826/KDL-distribution.git"
+  },
+  "author": "commanderk9826",
+  "license": "Beerware",
+  "bugs": {
+    "url": "https://github.com/commanderk9826/KDL-distribution"
+  },
+  "homepage": "https://github.com/commanderk9826/KDL-distribution#readme",
+  "dependencies": {
+    "dateformat": "^5.0.3",
+    "dotenv": "^16.3.1",
+    "socket.io": "^4.7.2",
+    "winston": "^3.10.0",
+    "winston-daily-rotate-file": "^4.7.1"
+  }
+}
