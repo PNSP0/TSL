@@ -7,11 +7,11 @@
 /****************************************************************************
  * Parameter Setting                                                        *
  ****************************************************************************/
-#define NETWORK_SSID "<YOUR_HOTSPOT_ID>"
-#define NETWORK_PASSWORD "<YOUR_HOTSPOT_PW>"
-#define SERVER_NAME "<YOUR_SERVER_DOMAIN>"
-#define CHANNEL_NAME "<YOUR_CHANNEL_NAME>"
-#define CHANNEL_KEY "<YOUR_CHANNEL_KEY>"
+#define NETWORK_SSID "iPhone (266)"
+#define NETWORK_PASSWORD "20240909"
+#define SERVER_NAME "commanderk.site"
+#define CHANNEL_NAME "24KSAE"
+#define CHANNEL_KEY "3225"
 
 /****************************************************************************
  * Hotspot AP configurations                                                *

@@ -5,7 +5,7 @@ After=network.target network-online.target
 
 [Service]
 Type=simple
-WorkingDirectory=<YOUR_MONOLITH_PATH>/server
+WorkingDirectory=/home/ubuntu/KDL/server
 ExecStart=/usr/bin/node index.mjs
 Restart=always
 

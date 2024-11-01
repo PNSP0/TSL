@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/commanderk9826/KDL-distribution.git"
+    "url": "git+ssh://git@github.com/commanderk9826/KDL.git"
   },
   "author": "commanderk9826",
   "license": "Beerware",
   "bugs": {
-    "url": "https://github.com/commanderk9826/KDL-distribution"
+    "url": "https://github.com/commanderk9826/KDL"
   },
-  "homepage": "https://github.com/commanderk9826/KDL-distribution#readme",
+  "homepage": "https://github.com/commanderk9826/KDL#readme",
   "dependencies": {
     "dateformat": "^5.0.3",
     "dotenv": "^16.3.1",

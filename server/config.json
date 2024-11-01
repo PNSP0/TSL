@@ -1,6 +1,7 @@
 {
-  "port": "<YOUR_MONOLITH_PORT>",
+  "port": 9826,
   "channels": [
-    { "name": "default", "key": "password" }
+    { "name": "Chlee9826", "key": "9826" },
+    { "name": "24KSAE", "key": "3225" }
   ]
 }

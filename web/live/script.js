@@ -199,7 +199,7 @@ if (ui) {
       if (data.display === 'gps') {
         maps[`${id}`] = {
           map: new kakao.maps.Map(document.getElementById(`map_${id}`), {
-            center: new kakao.maps.LatLng( 37.611709, 126.994029)
+            center: new kakao.maps.LatLng(37.778892, 126.684400)
           }),
           path: [],
           line: new kakao.maps.Polyline({
