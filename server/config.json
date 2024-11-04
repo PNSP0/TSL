@@ -1,7 +1,7 @@
 {
-  "port": 9826,
+  "port": 505,
   "channels": [
-    { "name": "Chlee9826", "key": "9826" },
-    { "name": "24KSAE", "key": "3225" }
+    { "name": "cpdpwpd04", "key": "0505" },
+    { "name": "25KSAE", "key": "3225" }
   ]
 }

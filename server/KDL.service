@@ -1,11 +1,12 @@
 [Unit]
-Description=KDL telemetry server
+
+Description=TSL telemetry server
 Wants=network-online.target
 After=network.target network-online.target
 
 [Service]
 Type=simple
-WorkingDirectory=/home/ubuntu/KDL/server
+WorkingDirectory=/home/ubuntu/TSL/server
 ExecStart=/usr/bin/node index.mjs
 Restart=always
 

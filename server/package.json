@@ -1,21 +1,21 @@
 {
   "name": "KDL",
   "version": "1.0.0",
-  "description": "KDL telemetry server",
+  "description": "TSL telemetry server",
   "main": "index.mjs",
   "scripts": {
     "test": "node index.mjs"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/commanderk9826/KDL.git"
+    "url": "git+ssh://git@github.com/PNSP0/TSL.git"
   },
-  "author": "commanderk9826",
+  "author": "PNSP0",
   "license": "Beerware",
   "bugs": {
-    "url": "https://github.com/commanderk9826/KDL"
+    "url": "https://github.com/PNSP0/TSL"
   },
-  "homepage": "https://github.com/commanderk9826/KDL#readme",
+  "homepage": "https://github.com/PNSP0/TSL#readme",
   "dependencies": {
     "dateformat": "^5.0.3",
     "dotenv": "^16.3.1",
