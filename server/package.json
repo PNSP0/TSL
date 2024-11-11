@@ -1,5 +1,5 @@
 {
-  "name": "KDL",
+  "name": "TSL",
   "version": "1.0.0",
   "description": "TSL telemetry server",
   "main": "index.mjs",
