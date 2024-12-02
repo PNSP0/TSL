@@ -24,15 +24,12 @@ KDL(Kust Data Logger)는 대학생 자작자동차대회 출전차량을 위해 
 - 전원(LV) 전압 및 자체 CPU 온도
 - RTC 실제 시간 정보
 
-
-<img src='https://www.commanderk.site/assets/readme/1-1.jpeg' width="450px" height="250px">
-
 ## 2. 텔레메트리 모니터
 
 데이터로거가 통신하는 텔레메트리 서버와, 실시간 데이터 모니터링을 위한 웹 클라이언트입니다.
 
 ### 서버
-따로 설정하지 않는 한 데이터로거는 기본적으로 [commanderk.site](http://pknova.site) 를 사용하여 데이터를 실시간으로 전송합니다.
+따로 설정하지 않는 한 데이터로거는 기본적으로 [pknova.site](http://pknova.site) 를 사용하여 데이터를 실시간으로 전송합니다.
 
 > 기본 제공되는 텔레메트리 서버는 확인된 사용자만 이용할 수 있습니다.
 
@@ -41,11 +38,6 @@ KDL(Kust Data Logger)는 대학생 자작자동차대회 출전차량을 위해 
 ### 클라이언트
 
 각 사용자가 개별적으로 UI를 설정할 수 있으며, UI 설정 파일을 내보내고 불러오는 기능을 지원합니다.
-
-
-<img src='https://www.commanderk.site/assets/readme/1-4.jpeg' width="700px" height="325px" >
-<img src='https://www.commanderk.site/assets/readme/1-5.jpeg' width="700px" height="400px">
-<img src='https://www.commanderk.site/assets/readme/1-6.jpeg' width="700px" height="130px">
 
 
 ## 데이터분석도구
